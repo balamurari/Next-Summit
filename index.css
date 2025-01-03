@@ -1,0 +1,45 @@
+*{
+    margin:0;
+}
+
+.main{
+
+}
+
+.logo{
+    display: flex;
+    gap:0
+}
+
+.menu-bar{
+    display: flex;
+    gap:20px
+}
+
+.main{
+    background-image: url('bg.jpg');
+    background-position: left top;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0,0, 0.5);
+    z-index: -1;
+    height: 60vh;
+
+}
+
+
+.site-name{
+
+}
+
+.nav-details{
+    display: flex;
+}
+
+.body-content{
+
+}
+
+.footer-details{
+
+}
